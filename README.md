@@ -21,9 +21,9 @@ In order to motivate and manage team growth and professional development, I cont
 
 # Here are some **metrics** for you to digest:
 
-Before reading, do note the that majority of my constributions has been private repos. I intend on changing that this year (2022). **#OpenSource** 🥑
+Before reading, do note the that majority of my constributions has been within private repos. I intend on changing that this year (2022). **#OpenSource** 🥑
 
-- On the note above, I am **currently looking for open sources projects to contribute to and help maintain**. Please reach out to me on Twitter.
+- On that note, I am **currently looking for open sources projects to contribute to/help maintain**. Please reach out to me on Twitter to connect.
 
 ###### **Overall contributions in the last 30 days:**
 [![](https://activity-graph.herokuapp.com/graph?username=jeacovy&theme=xcode)](https://git.io/SauravMukherjee44)
@@ -38,7 +38,7 @@ Before reading, do note the that majority of my constributions has been private 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeacovy&langs_count=3&hide_title=true&hide_border=true)
 
 ###### **I know. I know. Who would want to scroll all the way back up?**
-I am pretty active on all platforms, so lets connect so you can put a face to the words!
+I am pretty active on all platforms. Lets connect, so you can put a face to the words!
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeacovygayle)
 [![](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeacovy)
