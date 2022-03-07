@@ -19,6 +19,13 @@ In order to motivate and manage team growth and professional development, I cont
 [![](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeacovy)
 [![](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeacovy)
 
+# **Open-source** projects:
+| Project | About | Version |
+| --------------- | --------------- | --------------- |
+| READme//GIFme | Keeping README's cool one repo at a time! | 1.0.0 |
+
+[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=jeacovy&repo=readme-gifme&theme=vue-dark)](https://github.com/jeacovy/readme-gifme)
+
 # Here are some **metrics** for you to digest:
 
 Before reading, do note the that majority of my constributions has been within private repos. I intend on changing that this year (2022). **#OpenSource** 🥑
