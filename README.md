@@ -24,7 +24,7 @@ In order to motivate and manage team growth and professional development, I cont
 | --------------- | --------------- | --------------- |
 | READme//GIFme | Keeping README's cool one repo at a time! | 1.0.0 |
 
-[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=jeacovy&repo=readme-gifme&theme=vue-dark)](https://github.com/jeacovy/readme-gifme)
+[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=jeacovy&repo=readme-gifme&theme=xcode)](https://github.com/jeacovy/readme-gifme)
 
 # Here are some **metrics** for you to digest:
 
