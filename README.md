@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/d5Zh91dxExQtKMTsrs/giphy.gif)
+![Alt Text](https://media.giphy.com/media/1qcgr3onFexTGMwRCh/giphy.gif)
 
 # Hello there! I'm **Jeacovy Gayle**.
 
