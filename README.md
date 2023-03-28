@@ -31,8 +31,6 @@ Jeacovy prioritizes nurturing team growth and professional development by utiliz
 
 Before reading, do note the that majority of my constributions has been within private repos. I intend on changing that this years. **#OpenSource** 🥑
 
-- On that note, I am **currently looking for open sources projects to contribute to/help maintain**. Please reach out to me on Twitter to connect.
-
 ###### **Overall contributions in the last 30 days:**
 [![](https://activity-graph.herokuapp.com/graph?username=jeacovy&theme=xcode)](https://git.io/SauravMukherjee44)
 
