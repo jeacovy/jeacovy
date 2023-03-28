@@ -4,11 +4,12 @@
 
 ###### **A bit about myself (***duped from my Linkedin profile***):** 🥸
 
-My goal is to spend my career building great software by directing and managing engineering teams as a hybrid team player ranging from system designer, people manager, roadmap satisfaction driver, project manager and innovative problem solver.
+Jeacovy is committed to producing top-quality software throughout his career by leading and managing engineering teams in various positions. 
 
-Using language agnostic paradigm as the forefront to my software architecting and design decisions in addition to 8+ years of experience allow me to lead engineering teams. Teams that balance design, development, testing, deployment and maintenance of complex software and technology projects. I value the ability to meet and exceed the expectations of both the company and stakeholders for each project my team encompasses.
+With over nine years of experience, Jeacovy has developed a programming language-neutral approach to software architecture and design that helps engineering teams maintain an equilibrium between creating, coding, testing, launching, and supporting complex technological projects. Jeacovy’s goal is always to surpass a company's and stakeholders' expectations for every project his teams undertake.
 
-In order to motivate and manage team growth and professional development, I continue to draw from a deep and broad technical background to mentor fellow engineers and provide guidance in addition to exposing myself to new forms of technologies.
+Jeacovy prioritizes nurturing team growth and professional development by utilizing his extensive technical background to help mentor other engineers and provide guidance. Additionally, Jeacovy stays abreast of emerging technologies to remain informed and up-to-date.
+
 
 ###### **My favorite quote:**
 > I'd rather be optimistic and wrong than pessimistic and right.
@@ -28,7 +29,7 @@ In order to motivate and manage team growth and professional development, I cont
 
 # Here are some **metrics** for you to digest:
 
-Before reading, do note the that majority of my constributions has been within private repos. I intend on changing that this year (2022). **#OpenSource** 🥑
+Before reading, do note the that majority of my constributions has been within private repos. I intend on changing that this years. **#OpenSource** 🥑
 
 - On that note, I am **currently looking for open sources projects to contribute to/help maintain**. Please reach out to me on Twitter to connect.
 
